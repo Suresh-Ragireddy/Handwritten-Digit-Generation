@@ -1,0 +1,9 @@
+tensorflow==2.12.0          # For TensorFlow-based implementation
+torch==2.0.1                # For PyTorch-based implementation (choose one of TensorFlow or PyTorch)
+torchvision==0.15.2         # Required for PyTorch if using torchvision datasets like MNIST
+numpy==1.24.4               # For numerical operations
+matplotlib==3.7.2           # For visualizing results
+pandas==2.0.3               # Optional: For data handling and manipulation
+scipy==1.11.3               # Optional: Used in some GAN implementations
+jupyterlab==4.0.3           # To run Jupyter Notebooks
+notebook==7.0.3             # Jupyter Notebook compatibility
