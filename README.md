@@ -1,2 +1,7 @@
-# Handwritten-Digit-Generation
-Developed a Generative Adversarial Network (GAN) to create realistic handwritten digit images using the MNIST dataset. This project involved training a generator to produce digit images and a discriminator to distinguish them from real ones, enhancing image quality and authenticity through adversarial learning.
+# **Handwritten Digit Generation using Generative Adversarial Networks (GANs)**
+
+- Developed a Generative Adversarial Network (GAN) using TensorFlow/PyTorch to generate realistic handwritten digit images based on the MNIST dataset.
+- Implemented and fine-tuned both generator and discriminator neural network architectures, optimizing model performance and stability.
+- Conducted data preprocessing and normalization of input datasets to enhance training efficiency and model accuracy.
+- Analyzed and visualized generated output using Matplotlib, demonstrating the improvement in image quality over training epochs.
+
